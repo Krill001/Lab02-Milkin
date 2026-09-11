@@ -12,3 +12,4 @@ C:\Users\Student_04\Documents\Lab02-Milkin\obj\Debug\net10.0\refint\Lab02-Milkin
 C:\Users\Student_04\Documents\Lab02-Milkin\obj\Debug\net10.0\Lab02-Milkin.pdb
 C:\Users\Student_04\Documents\Lab02-Milkin\obj\Debug\net10.0\Lab02-Milkin.genruntimeconfig.cache
 C:\Users\Student_04\Documents\Lab02-Milkin\obj\Debug\net10.0\ref\Lab02-Milkin.dll
+C:\Users\Student_04\Documents\Lab02-Milkin\obj\Debug\net10.0\Lab02-Milkin.sourcelink.json
