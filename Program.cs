@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Границы целочисленных типов");
+﻿using System.ComponentModel;
+
+Console.WriteLine("Границы целочисленных типов");
 Console.WriteLine($"byte: {byte.MinValue} .. {byte.MaxValue}");
 Console.WriteLine($"short: {short.MinValue} .. {short.MaxValue}");
 Console.WriteLine($"int: {int.MinValue} .. {int.MaxValue}");
@@ -36,3 +38,18 @@ decimal priceDecimal = 0.1m + 0.2m;
 
 Console.WriteLine($"double: 0.1 + 0.2 = {priceDouble}");
 Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");
+
+
+Console.WriteLine();
+Console.WriteLine("var");
+
+var studentAge = 20;
+var gpa = 4.75;
+var fullName = "Смирнова A.C.";
+Console.WriteLine($"{fullName}, возраст{studentAge},средний балл {gpa}");
+
+
+
+
+
+

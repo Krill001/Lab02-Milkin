@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Milkin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc613619197efe2a9abb17d7fc93eec6cfc00a5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e9364c3189512b7e50d31622f79149b03bb8ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Milkin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Milkin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
